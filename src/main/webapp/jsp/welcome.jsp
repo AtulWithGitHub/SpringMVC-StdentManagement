@@ -9,7 +9,7 @@
 <body>
 	<table>
 		<tr>
-			<td>Welcome ${firstname}</td>
+			<td>Welcome ${firstname} ${lastname} }</td>
 		</tr>
 		<tr>
 		</tr>
